@@ -1,0 +1,77 @@
+4 - Variables Names Legal and Illegal
+
+Notes
+    * Can not enclose variables in quotation marks.
+    * Can not start with a number or be a number.
+    * Can not be any of JavaScript's reserved words or keywords. Below is a list of keywords:
+        * abstract
+        * alert
+        * as
+        * boolean
+        * break
+        * byte
+        * case
+        * catch
+        * char
+        * class
+        * continue
+        * const
+        * debugger
+        * default
+        * delete
+        * do
+        * double
+        * else
+        * enum
+        * export
+        * extends
+        * false
+        * final
+        * finally
+        * float
+        * for
+        * function
+        * goto
+        * if
+        * implements
+        * import
+        * in
+        * instanceof
+        * int
+        * interface
+        * is
+        * long
+        * namespace
+        * native
+        * new
+        * null
+        * package
+        * private
+        * protected
+        * public
+        * return
+        * short
+        * static
+        * super
+        * switch
+        * synchronized
+        * this
+        * throw
+        * throws
+        * transient
+        * true
+        * try
+        * typeof
+        * use
+        * var
+        * void
+        * volatile
+        * while
+        * with
+    * A variable name can't contain spaces.
+    * Only letters, numbers, dollar signs, and underscores.
+    * Variable names are case sensitive. Use camelCase naming convention.
+    * Balance readability with conciseness.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/4.html

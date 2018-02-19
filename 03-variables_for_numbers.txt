@@ -1,0 +1,9 @@
+3 - Variables for Numbers
+
+Notes
+    * Unlike a string, a number is not enclosed in quotes.
+    * A number enclosed in quotations is a string.
+    * A variable name cannot begin with a number.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/3.html

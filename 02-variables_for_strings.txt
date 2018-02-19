@@ -1,0 +1,7 @@
+2 - Variables for Strings
+
+Notes
+    * A variable is created when you write var (for variable) followed by the name that you choose to give it.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/2.html

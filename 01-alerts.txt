@@ -1,0 +1,9 @@
+1 - Alerts
+
+Notes
+    * Alert is a box that pops up to give the user a message.
+        * Alternatively can be written as window.alert but is considered to be highly formal.
+    * A statement ends in a semicolon.
+    
+Quiz
+http://www.asmarterwaytolearn.com/js/1.html
