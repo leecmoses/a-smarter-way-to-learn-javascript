@@ -1,0 +1,8 @@
+12 - If, Else, and Else If Statements
+
+Notes
+    * Else specifies an action when all tests above have failed.
+    * If, else if, and else are all formatted the same way.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/12.html

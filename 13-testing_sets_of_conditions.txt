@@ -1,0 +1,9 @@
+13 - Testing Sets of Conditions
+
+Notes
+    * You can chain any number of conditions together by using &&.
+    * || is equivalent to 'or'.
+    * Use parentheses when using both || and &&.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/13.html

@@ -1,0 +1,7 @@
+9 - Prompts
+
+Notes
+    * A prompt box asks the user for some information and provides a response field for user's answer.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/9.html

@@ -1,0 +1,8 @@
+8 - Concatenating Text Strings
+
+Notes
+    * Concatenation is when two or more strings are combined using the plus sign.
+    * If you mix strings and numbers, JavaScript automatically converts the numbers to strings.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/8.html

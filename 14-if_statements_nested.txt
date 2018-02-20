@@ -1,0 +1,9 @@
+14 - If Statements Nested
+
+Notes
+    * Nested levels are communicated to JS by the positions of the curly brackets.
+    * For readability, a lower level is indented 2 spaces beyond the level above it.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/14.html
+

@@ -1,0 +1,11 @@
+10 - if Statements
+
+Notes
+    * An if statement has a space between the keyword and the open parenthesis.
+        * First line of an if statement ends with an opening curly bracket.
+        * An entire if statement ends with a closing curly bracket on its own line.
+    * Single equal sign is used to assign value while triple equal sign is used to test a value.
+        * In most cases, a double equal sign is just as good as a tripe equal sign. Only slight technical difference. To keep it simple, always use triple equal sign.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/10.html

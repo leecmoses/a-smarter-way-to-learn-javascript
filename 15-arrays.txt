@@ -1,0 +1,11 @@
+15 - Arrays
+
+Notes
+    * An array is a variable that can have multiple values (elements) assigned to it.
+        * An array can be assigned any type of value that you can assign to ordinary variables.
+        * Can even mix the different types in the same array (not that you would ordinarily want to).
+    * Coders often prefer to make array names plural - cities instead of city, for example - since an array is a list of things.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/15.html
+

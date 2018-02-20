@@ -1,0 +1,8 @@
+11 - Comparison Operators
+
+Notes
+    * ===, !==, >, and <= are comparison operators.
+    * Just as the double equal sign can usually be used instead of the triple equal sign, != can usually be used instead of !==.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/25.html

@@ -1,0 +1,8 @@
+7 - Math Expressions: Eliminating Ambiguity
+
+Notes
+    * Use parentheses to make intentions clear to JavaScript, it also makes your code easier to grasp, both for you and other coders.
+    * In JavaScript as in algebra, the ambiguity is cleared up by precedence rules.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/7.html
