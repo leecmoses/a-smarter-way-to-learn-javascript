@@ -1,0 +1,10 @@
+17 - Arrays: Removing and Inserting Elements
+
+Notes
+    * Shift removes the first element of an array.
+    * Unshift adds one or more elements to the beginning of an array.
+    * Splice inserts new elements anywhere in an array and/or removes elements from an array.
+    * Slice copies elements from an array to another array.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/17.html

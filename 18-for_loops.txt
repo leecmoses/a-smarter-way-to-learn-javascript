@@ -1,0 +1,10 @@
+18 - for loops
+
+Notes
+    * Three specifications that define the loop are inside the parentheses.
+        1. A variable that counts iterations and also serves as the changing array index is declared and set to a string value, in the case().
+        2. The limit on the loop is defined. In this case, the loop is to keep running as long as the counter doesn't exceed the number stated. Since the counter, in this case, is starting at 0, the loop will run number stated + 1 times.
+        3. What happens to the counter at the end of every loop. In this case, the counter is incremeneted each time.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/18.html

@@ -1,0 +1,11 @@
+20 - for loops nested
+
+Notes
+    * Things to think about:
+        * The inner loop runs a complete cycle of iternations on each iteration of the outer loop.
+        * You can have as many levels of nesting as you like.
+        * A nested loop is indented 2 spaces beyond its outer loop.
+    * The outer and inner loop do not share the same counter.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/20.html

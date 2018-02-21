@@ -1,0 +1,10 @@
+19 - for loops: Flags, Booleans, array length, and loopus interruptus
+
+Notes
+    * A flag is just a variable that starts out with a default value that you give it, 
+    and then is switched to a different value under certain conditions.
+    * Boolean values false and true.
+    * Break is the keyword that stops a loop from continuing to loop.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/19.html

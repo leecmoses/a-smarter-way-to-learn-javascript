@@ -1,0 +1,10 @@
+16 - Arrays: Adding and Removing Elements
+
+Notes
+    * Pop removes the last element of an array.
+        * .pop()
+    * Push adds one or more elements to the end of an array.
+        * .push()
+
+Quiz
+http://www.asmarterwaytolearn.com/js/16.html
