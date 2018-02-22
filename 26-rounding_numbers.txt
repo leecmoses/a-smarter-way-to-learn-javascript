@@ -1,0 +1,10 @@
+26 - Rounding numbers
+
+Notes
+    * Math.round() to round numbers.
+        * Math. is how all math functions begin. The "M" must be capped.
+    * To force JavaScript to round up to the nearest integer, no matter how small the fraction, use ceil instead of round.
+    * To force JavaScript to round down to the nearest integer, no matter how large the fraction, use floor instead of round. 
+
+Quiz
+http://www.asmarterwaytolearn.com/js/26.html

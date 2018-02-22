@@ -1,0 +1,10 @@
+24 - Strings: Finding a character at a location
+
+Notes
+    * .charAt() finds the index of a single character.
+    * .chartAt(name.length - 1) finds the last character in the string.
+    * charAt method can only identify the character at a particulat location.
+        * It can not change the character at a location.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/24.html

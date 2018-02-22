@@ -1,0 +1,11 @@
+28 - Converting strings to integers and decimals
+
+Notes
+    * NaN means "Not a Number."
+    * If you want to do any addition you must convert all strings to integers.
+    * Oddly that's not the case with -, *, or /.
+    * parseInt() drops off decimals without rounding.
+    * parseFloat() is used to preserve decimal values.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/28.html

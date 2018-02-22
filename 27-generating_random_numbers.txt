@@ -1,0 +1,7 @@
+27 - Generating random numbers
+
+Notes
+    * Math.random() to generate a pseudo-random number.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/27.html

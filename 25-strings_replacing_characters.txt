@@ -1,0 +1,13 @@
+25 - Strings: Replacing characters
+
+Notes
+    * .replace() - finds and replaces a string.
+        * first string inside the parentheses is the segment to be replaced.
+        * second string inside the parentheses is the segement to be inserted.
+    * If you want to replace all instances, you must let JavaScript know that you want a global replace.
+        * e.g. /text/g
+        * In a global replace, you enclose the segement to be replaced by forward slashes instead of quotation marks, followed by g.
+            * The segment to be inserted is enclosed by quotation marks just like a one-time replace.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/25.html

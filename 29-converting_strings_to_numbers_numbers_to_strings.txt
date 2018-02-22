@@ -1,0 +1,8 @@
+29 - Converting strings to numbers, numbers to strings
+
+Notes
+    * Number() is the keyword for converting an integer string or floating-point number string, to its equivalent number.
+    * .toString() is the keyword for converting a number to a string.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/29.html

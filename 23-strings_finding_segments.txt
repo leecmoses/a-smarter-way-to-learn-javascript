@@ -1,0 +1,9 @@
+23 - Strings: Finding segments
+
+Notes
+    * .indexOf() is used to find the index of the first character of the segement.
+        * If it does not exist, the method assigns -1 to the variable.
+    * .lastIndexOf() is used to find the first character of the last instance of the segement.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/23.html

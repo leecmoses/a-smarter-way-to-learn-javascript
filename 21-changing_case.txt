@@ -1,0 +1,8 @@
+21 - Changing Case
+
+Notes
+    * .toLowerCase(); and .toUpperCase() both must be in camelCase.
+    * Includes all letters not just first letter of a word.
+    
+Quiz
+http://www.asmarterwaytolearn.com/js/21.html

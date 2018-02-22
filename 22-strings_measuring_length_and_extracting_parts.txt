@@ -1,0 +1,11 @@
+22 - Strings: Measuring length and extracting parts
+
+Notes
+    * Things to be aware of:
+        * A string is indexed like an array. Only, instead of each index number referring to an element, it refers to a character.
+        * Like array indexing, string indexing begins with 0.
+        * In the slice method, the first number inside the parentheses is the index of the first character in the slice. The second, number is not, however, the last character in the slice.
+            * If you subtract the first index from the second index, you'll always get the length of the slice.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/22.html

@@ -1,0 +1,9 @@
+30 - Controlling the length of decimals
+
+Notes
+    * The keyword that rounds a number to a specified number of decimal places and converts it to a string is .toFixed().
+    * .toFixed() converts variables to a string.
+        * .toFixed() left empty returns no decimals.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/30.html
