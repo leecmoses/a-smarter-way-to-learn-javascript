@@ -1,0 +1,10 @@
+33 - Specifying a date and time
+
+Notes
+    * Use the following form when specifying date.
+        * ("July 21, 1983 13:25:00")
+            * Note no comma after 24-hour time.
+            * Colons separating hours, minutes, and seconds.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/33.html

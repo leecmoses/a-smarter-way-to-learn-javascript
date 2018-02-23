@@ -1,0 +1,13 @@
+31 - Getting the current date and time
+
+Notes
+    * var name = new Date()
+        * The object looks like a string, but isn't one.
+            * Can't use methods on it like charAt, indexOf, or slice.
+            * Can convert to a string useing .toString().
+    * Days are designated by a number from 0 for Sunday through 6 for Saturday.
+    * d.getDay() extracts the day of the week from a Date object represented by d.
+        * It's represented as a number.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/31.html

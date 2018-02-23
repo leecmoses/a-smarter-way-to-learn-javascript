@@ -1,0 +1,13 @@
+34 - Changing elements of a date and time
+
+Notes
+    * You can change individual elements of a Date object. Here's a summary:
+        * setFullYear()
+        * setMonth()
+        * setDate()
+        * setMinutes()
+        * setSeconds()
+        * setMilliseconds()
+
+Quiz
+http://www.asmarterwaytolearn.com/js/34.html

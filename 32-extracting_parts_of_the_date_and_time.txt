@@ -1,0 +1,14 @@
+32 - Extracting parts of the date and time
+
+Notes
+    * .getDay() - returns a number in the range of (0-6).
+    * .getMonth() - (0-11)
+    * .getDate() - (1-31)
+    * .getFullYear() - returns a 4-digit number for the year.
+    * .getHours() - (0-23)
+    * .getSeconds() - (0-59)
+    * .getMilliseconds() - (0-999)
+    * .getTime() - gives you the number of milliseconds that have elapsed since midnight, Jan. 1, 1970.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/32.html
