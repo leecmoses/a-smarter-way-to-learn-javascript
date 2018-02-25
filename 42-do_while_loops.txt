@@ -1,0 +1,15 @@
+42 - do...while loops
+
+Notes
+    * In a while loop the order of instructions is:
+        1. Declare a variable to serve as a counter, and assign a value to it.
+        2. Start the loop, specifying how long the loop is to run.
+        3. Execute one or more statements.
+        4. Within the loop, as a final statement, advance the counter.
+    * A do...while loop accomplishes almost the same task as a while loop. The differences between the two type of loops:
+        * Instead of while, the keyword do leads off the statement.
+        * The while clause, including the loop-limiting code inside the parentheses, moves to the bottom-after the closing curly bracket.
+    * do...while loop executes the code inside the curly brackets before it gets to the loop-limiter at the bottom, it always executes that code at least once, no matter what the loop-limiter says.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/42.html

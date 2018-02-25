@@ -1,0 +1,8 @@
+35 - Functions
+
+Notes
+    * Function is a block of code that executes whenever you invoke its name.
+    * Any name that is legal for a variable is legal for a function.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/35.html

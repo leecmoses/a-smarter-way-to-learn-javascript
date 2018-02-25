@@ -1,0 +1,7 @@
+46 - Events: button
+
+Notes
+    * The code creates a button that, when clicked, calls a function.
+        * <input type="button" value="Submit" onClick="myFunc();">
+
+Quiz

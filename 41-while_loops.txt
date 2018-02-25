@@ -1,0 +1,10 @@
+41 - while loops
+
+Notes
+    * A while loop is organized along the same lines as a for loop.
+        * Parentheses enclose the loop limiter.
+        * Curly brackets enclose the code that executes.
+        * The code that executes is indented 2 spaces.
+    * Since any for loop can be translated into a while loop and vice versa, you can use whichever one you prefer.
+
+Quiz

@@ -1,0 +1,10 @@
+40 - switch statements: how to complete them
+
+Notes
+    * The third line in a switch statement and afterwards are indented two spaces.
+    * 'break;' is the statement that keeps all the statements below the true case from executing.
+    * } is the last line of a switch statement.
+    * 'default :' is the catch-all clause that specifies what happens if none of the above cases is true. It is like an else in an if statement.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/40.html

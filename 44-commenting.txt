@@ -1,0 +1,8 @@
+44 - Commenting
+
+Notes
+    * // is the tag for commenting 1 line at a time.
+    * Block comment in JS is the same as CSS. Use /* and */.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/44.html

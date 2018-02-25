@@ -1,0 +1,9 @@
+36 - Functions: Passing them data
+
+Notes
+    * The variables in a function definition that catch the data passed to them by the calling code are called parameters.
+    * The rules for naming parameteres are the same as the rules for naming variables.
+    * When there are multiple arguments and parameters, the arguments and parameters(param) are matched up by their order.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/36.html

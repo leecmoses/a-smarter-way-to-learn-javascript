@@ -1,0 +1,10 @@
+43 - Placing scripts
+
+Notes
+    * Generally, the best place for scripts, though, is at the end of the body section.
+        * Why? This guarantees that CSS styling and image display won't get held up while scripts are loading.
+    * <script></script> if JavaScript is added within the HTML file.
+    * <script src="whatever.js"></script> if using a separate JS file, which is best practice.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/43.html

@@ -1,0 +1,8 @@
+37 - Functions: passing data back from them
+
+Notes
+    * The keyword that sends data back to the calling code is return.
+    * You can use a function in any place where you would use a variable.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/37.html

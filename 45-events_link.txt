@@ -1,0 +1,9 @@
+45 - Events: link
+
+Notes
+    * <a href="JavaScript:void(0)" onClick="greet();">Get greeting</a>
+    * 'onClick' is the keyword that tells the browser to watch for a click on a link.
+    * Inline js is usually frowned upon.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/45.html

@@ -1,0 +1,11 @@
+38 - Functions: local vs. global variables
+
+Notes
+    * A variable declared in the main code is a global variable.
+    * A variable declared in a function is a local variable.
+    * A parameter is a local variable.
+    * Global and local variables differ in their scope.
+    * A global variable is "in the shadow of" a local variable when a variable is declared in both the main code and function.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/38.html

@@ -1,0 +1,13 @@
+39 - switch statements: How to start them
+
+Notes
+    * The more conditions you need to test, the more you need to use a switch statement.
+    * Whenever you could use an if statement you can use instead a switch statement.
+    * A switch statement begins with the keyword switch.
+        * The second keyword used in a switch statement is case.
+    * switch() {
+      case x :
+        * The switch and case are on the same indent level.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/39.html
