@@ -1,0 +1,12 @@
+47 - Events: mouse
+
+Notes
+    * 'onMouseover' is the keyword for detecting that the user is hovering over an element.
+        * <img src="before-pic.jpg" onMouseover="src='after-pic.jpg'">
+    * 'onMouseout' is the keyword for detecting that the user is no longer hovering over an element.
+    * Can combine onMouseover with onMouseout.
+    * onMouse="this.style.color='green';"
+        * 'this.style.color' allows you to change the link color.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/47.html

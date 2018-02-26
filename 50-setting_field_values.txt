@@ -1,0 +1,8 @@
+50 - Setting field values
+
+Notes
+    * Make up an id for the field.
+        * document.getElementById("age").value = "21";
+
+Quiz
+http://www.asmarterwaytolearn.com/js/50.html

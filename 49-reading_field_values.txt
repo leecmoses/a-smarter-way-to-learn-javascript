@@ -1,0 +1,10 @@
+49 - Reading field values
+
+Notes
+    * 'onSubmit' is the keyword for detecting that the user has submitted a form.
+    * 'form' is the HTML tag that encloses onSubmit.
+    * if (document.getElementById("idname").value === "string") {
+    *  var val = document.getElementById("idname").value;
+
+Quiz
+http://www.asmarterwaytolearn.com/js/49.html
