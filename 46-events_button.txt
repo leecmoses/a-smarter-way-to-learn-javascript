@@ -5,3 +5,4 @@ Notes
         * <input type="button" value="Submit" onClick="myFunc();">
 
 Quiz
+http://www.asmarterwaytolearn.com/js/46.html
