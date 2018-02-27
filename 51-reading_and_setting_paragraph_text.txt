@@ -1,0 +1,7 @@
+51 - Reading and setting paragraph text
+
+Notes
+    * .innerHTML
+
+Quiz
+http://www.asmarterwaytolearn.com/js/51.html

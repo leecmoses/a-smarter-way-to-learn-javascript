@@ -1,0 +1,10 @@
+53 - Swapping images
+
+Notes
+    * <img src="before-pic.jpg" id="before" onMouseover="swapPic();">
+    * function swapPic() {
+    *   document.getElementById("before").src = "after-pic.jpg";
+    * }
+
+Quiz
+http://www.asmarterwaytolearn.com/js/53.html

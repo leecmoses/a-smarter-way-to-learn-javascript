@@ -1,0 +1,11 @@
+52 - Manipulating images and text
+
+Notes
+    * .className = "formal";
+        * No space required before the class name.
+    * Use '+=' to add class to any existing classes assigned to the element.
+        * It's += instead of just =.
+        * A space before the class name is required.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/52.html

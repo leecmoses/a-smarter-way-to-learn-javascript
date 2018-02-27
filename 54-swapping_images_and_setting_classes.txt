@@ -1,0 +1,8 @@
+54 - Swapping images and setting classes
+
+Notes
+    * A more common way to code the function is to break it into two steps, first assigning document.getElementById("before") to a variable.
+    * Then combine that variable with .src.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/54.html

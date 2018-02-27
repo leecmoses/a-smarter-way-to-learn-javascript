@@ -1,0 +1,15 @@
+55 - Setting styles
+
+Notes
+    * Many ways to change style properties.
+        * .style.fontSize = "24px";
+        * .style.fontWeight = "bolder";
+        * .style.cssFloat = "right";
+        * .style.visibility = "visible"; (or "hidden";)
+        * .style.margin = "0 10px 0 10px";
+        * .style.borderWidth = "2px";
+        * .style.fontFamily = "fontnames";
+        * .style.backgroundColor = "color";
+
+Quiz
+http://www.asmarterwaytolearn.com/js/55.html
