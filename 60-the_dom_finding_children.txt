@@ -1,6 +1,8 @@
 60 - The DOM: Finding Children
 
 Notes
-    *
+    * .childNodes[i].childNodes[i]...
+    * As in array notation, the first child is number 0.
 
 Quiz
+http://www.asmarterwaytolearn.com/js/60.html

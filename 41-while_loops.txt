@@ -1,6 +1,8 @@
 41 - while loops
 
 Notes
+    * The differences between for and while loops:
+        * while establishes a counter outside of the parentheses and in the first line.
     * A while loop is organized along the same lines as a for loop.
         * Parentheses enclose the loop limiter.
         * Curly brackets enclose the code that executes.
@@ -8,3 +10,4 @@ Notes
     * Since any for loop can be translated into a while loop and vice versa, you can use whichever one you prefer.
 
 Quiz
+http://www.asmarterwaytolearn.com/js/41.html
