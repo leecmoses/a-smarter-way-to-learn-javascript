@@ -1,0 +1,13 @@
+62 - The DOM: More ways to target elemenets
+
+Notes
+    * ".firstChild" = .childNodes[0]
+    * ".lastChild" = the last child node.
+    * ".parentNode" targets the parent node of the specified childNode.
+    * DOM siblings are nodes that share the same parent.
+        * ".previousSibling" and ".nextSibling".
+        * If there is not a previous or next sibling the return value will be 'null'.
+    * Counting siblings can be tricky, because some browsers treat whitespace created by TML formatting as text nodes.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/index-of-exercises.html

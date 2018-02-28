@@ -1,0 +1,15 @@
+63 - The DOM: Getting a target's name
+
+Notes
+    * ".nodeType", if element, then 1, if text, then 3.
+    * ".nodeName" to get the node name. 
+        * In HTML, the name is usually given in all-caps, even if the markup is in lowercase.
+        * e.g. P, DIV, SPAN, IMG, A, EM, TABLE, LI
+    * If the node is a text node, the name of the node is aways #text - in lower-case.
+    * ".nodeValue"
+    * An element node like P or IMG has a name but no value.
+        * If you try to assign an element node value to a variable, the variable will be assigned null.
+            * null is not in quotes.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/63.html

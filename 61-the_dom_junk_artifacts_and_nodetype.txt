@@ -1,0 +1,14 @@
+61 - The DOM: Junk artifacts and nodeType
+
+Notes
+    * Some browsers interpret whitespace in markup as text nodes.
+        * In HTML markup whitespace is created by some tabs, spaces, and carriage returns.
+    * var nType = targetNode.nodeType;
+    * If the node is a text node the value of nType is 3.
+    * If the node is an element node the value of nType is 1.
+    * You can see why the getElementById method is more popular with coders than tracing the DOM hierarchy.
+        * But there are some things you can't do without working your way through the parent-child relationships of the DOM.
+    
+
+Quiz
+http://www.asmarterwaytolearn.com/js/61.html

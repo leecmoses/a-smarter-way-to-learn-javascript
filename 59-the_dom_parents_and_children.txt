@@ -1,0 +1,13 @@
+59 - The DOM: Parents and children
+
+Notes
+    * You can designate any node of the DOM by saying the node is the xth child of a particular parent.
+        * Or by designating a node by saying it's the parent of any child.
+    * Except the document node, each node is enclosed within another node.
+    * A node is the child of the node that encloses it.
+    * A node is the parent of a node that it encloses.
+    * Nodes with the same parent are known as siblings.
+    * Text nodes do not have children nodes.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/59.html

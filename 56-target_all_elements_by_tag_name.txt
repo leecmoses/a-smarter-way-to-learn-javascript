@@ -1,0 +1,9 @@
+56 - Target all elements by tag name
+
+Notes
+    * .getElementsByTagName
+    * var par = document.getElementsByTagName("p");
+        * The variable, par, now holds an array-like collection of all the paragraphs in the document.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/56.html

@@ -1,0 +1,18 @@
+58 - The DOM
+
+Notes
+    * Document Object Model, the DOM.
+    * The DOM is an organization chart, created automatically by the browser when your web page loads, for the whole web page.
+    * JavaScript can add things, move things, or delete things by manipulating this chart.
+    * In the DOM organization chart, each box represents a node.
+        * Document node is the top level.
+            * Node that contains all other nodes.
+        * HTML is the second level.
+            * <html> the opening tag for the first ELEMENT node.
+        * Head and body are the third level.
+        * Element nodes <html>, <head>, <body>, <title>, <div>, <p>
+        * Text nodes are the strings things such as titles and paragraphs.
+            * Lowest node.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/58.html

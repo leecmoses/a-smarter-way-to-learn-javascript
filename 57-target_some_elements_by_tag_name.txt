@@ -1,0 +1,8 @@
+57 - Target some elements by tag name
+
+Notes
+    * document.getElementById("idname");
+    * selectorname.getElementsByTagName("p");
+
+Quiz
+http://www.asmarterwaytolearn.com/js/57.html
