@@ -1,0 +1,9 @@
+67 - The DOM: Adding nodes
+
+Notes
+    * '.createElement()' for creating new element.
+    * '.createTextNode()' is the keyword for creating a string that will be the child of a paragraph.
+    * '.appendChild()' is the keyword for adding text content to a paragraph.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/67.html

@@ -1,0 +1,7 @@
+64 - The DOM: Counting elements
+
+Notes
+    * Reminder - nodeNames by default in HTML are in all caps.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/64.html

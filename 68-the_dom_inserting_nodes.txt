@@ -1,0 +1,9 @@
+68 - The DOM: Inserting nodes
+
+Notes
+    * insertBefore.(whatyoureinserting, beforewhatyoureinserting);
+        * There is no ;insertAfter'.
+    * removeChild.();
+
+Quiz
+http://www.asmarterwaytolearn.com/js/68.html

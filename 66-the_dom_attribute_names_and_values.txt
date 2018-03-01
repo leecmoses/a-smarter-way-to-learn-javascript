@@ -1,0 +1,8 @@
+66 - The DOM: Attribute names and values
+
+Notes
+    * '.attributes' can be used to make a collecton of all the attributes of an element.
+    * The node name does not come back in camelCase, but all lowercase, e.g. "onMouseover" = "onmouseover".
+
+Quiz
+http://www.asmarterwaytolearn.com/js/66.html

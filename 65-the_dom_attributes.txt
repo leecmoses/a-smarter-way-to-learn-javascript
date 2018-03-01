@@ -1,0 +1,15 @@
+65 - The DOM: Attributes
+
+Notes
+    * <elment something="something in quotes">
+        * An element with attribute.
+            * The equal sign and the quotes are the tipoff.
+        * The word on the left of the equal sign is the attribute name.
+        * The word on the right side of the equal sign is the attribute value.
+    * An element can have any number of attributes.
+    * .hasAttribute("class") returns either true or false.
+    * .getAttribute("class") reads the value of an attribute.
+    * .setAttribute("class", "special") sets the value of an attribute.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/65.html
