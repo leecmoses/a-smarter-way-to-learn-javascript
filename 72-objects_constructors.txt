@@ -1,0 +1,8 @@
+72 - Objects: Constructors
+
+Notes
+    * A function that creates objects and their properties is known as a constructor function.
+    * 'this' is the keyword that in a constructor function that is replaced by the object name when the function executes.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/72.html

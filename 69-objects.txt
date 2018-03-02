@@ -1,0 +1,23 @@
+69 - Objects
+
+Notes
+    * var variable = object.property;
+    * Objects and properties used to assigning values to variables efficiently.
+        * Properties are just variables that are attached to an object.
+    * var plan1 = {
+        name: "Basic",
+        price: 3.99,
+        space: 100,
+        transfer: 1000,
+        pages: 10
+    };
+
+    Things to notice:
+        * The code begins like any variable definition, with the keyword var, followed by the object name, and then an equal sign.
+        * But then, instead of a value, there's a curly bracket, whose twin comes at the end of the block.
+        * Each property begins with a name, followed by a colon, and then a value.
+        * Each property definiton except the last ends with a comma.
+        * The closing curly bracket is followed by a semicolon, because of the equal sign in the first line.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/69.html

@@ -1,0 +1,9 @@
+71 - Objects: Methods
+
+Notes
+    * A function that's attached to an object is known as a method.
+    * object.method();
+    * method: function(param1, param2) {
+
+Quiz
+http://www.asmarterwaytolearn.com/js/71.html

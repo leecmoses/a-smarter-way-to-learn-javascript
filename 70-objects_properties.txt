@@ -1,0 +1,21 @@
+70 - Objects: Properties
+
+Notes
+    * Object properties can be assigned strings, numbers, or booleans.
+    * To create a property now and assign it a value later, you can create it with a value of undefined.
+        * object.property = undefined;
+    * You can delete a property of an object.
+        * delete object.property;
+    * To check if a property of an object exists.
+        * propertyExists = "market" in deal3;
+
+        Things to notice:
+        * You could use any legal variable name instead of propertyExists.
+        * The keyword in asks, "The property market is in the object deal3-true or false?"
+        * The property market is in quotes.
+        * The object deal3 is not in quotes.
+    
+    * Reminder the result is either true or false when checking for a property of an object exists.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/70.html
