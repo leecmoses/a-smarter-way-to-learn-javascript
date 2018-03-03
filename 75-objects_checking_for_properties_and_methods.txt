@@ -1,0 +1,10 @@
+75 - Objects: Checking for properties and methods
+
+Notes
+    * var gotTheProperty = "price" in plan1;
+        * the property in question, enclosed in quotes - in this case, price.
+        * the keyword in.
+        * the object, in this case, plan1.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/75.html

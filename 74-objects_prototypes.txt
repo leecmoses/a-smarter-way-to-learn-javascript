@@ -1,0 +1,9 @@
+74 - Objects: Prototypes
+
+Notes
+    * Prototype is the keyword that allows all objects created by a particular constructor to share the same property or function. 
+    * Constructor.prototype.method = function() {
+    * A property or function written by the prototype can be overwritten.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/74.html

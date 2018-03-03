@@ -1,0 +1,10 @@
+73 - Objects: Constructors for methods
+
+Notes
+    * When you attach a variable to an object, it;s called a property of the object.
+    * When you attach a function to an object, it's called a method of the object.
+    * The first line of a method without parameters in a constructor.
+        * this.method = function() {
+
+Quiz
+http://www.asmarterwaytolearn.com/js/73.html
