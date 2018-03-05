@@ -1,0 +1,8 @@
+80 - Browser Control: Controlling the window's size and location
+
+Notes
+    * Size and position parameters, are represented in pixels.
+    * 100 is the minimum number of pixels in the width and height parameters.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/80.html
