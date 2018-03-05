@@ -1,0 +1,20 @@
+77 - Browser control: Getting and setting the URL another way
+
+Notes
+    * window.location.assign("http://www.me.com");
+        * The statement directs the browser to the home page of me.com.
+        * As with the window.location.href statement, you can make the URL as deetailed as you like.
+    * Alternatively, window.location.replace(("http://www.me.com"); could be used.
+        * But by using replace instead of assign, you interfere with the browser history.
+    * window.location.reload(true);
+    * window.location.reload(false);
+    * window.location.reload();
+        * All three statements reload the current page. If the argument is true, the statement forces the browser to load the page from the server.
+        * If the argument is false or if there is no argument, the browser will load the page from the cache if the page has been cached.
+    * Coding Alernatives to Be Aware Of
+        You can use window.location.href = window.location.href or any of the abbreviated alternatives to reload the current page. The reload is faster,
+        but it doesn't allow you to specify whether the browser reloads from the server or the cache.
+        document.URL = document.URL doesn't work.
+        
+Quiz
+http://www.asmarterwaytolearn.com/js/77.html

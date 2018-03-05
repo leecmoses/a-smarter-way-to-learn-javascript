@@ -1,0 +1,13 @@
+78 - Browser control: Forward and reverse
+
+Notes
+    * history.back(); = history.go(-1);
+        * backspace has the same effect as history.back().
+    * history.forward(); = history.go(1);
+        * In both cases, if there is no URL history that would make the move possible, the browser does nothing.
+    * var whereItCameFrom = document.referrer; assigns the URL where the link was clicked to the variable whereUserCameFrom.
+        * However, this works only if a link was clicked, including a link in a search result.
+        * If the user got to your page through a bookmark or by entering your URL in the address bar, the result of 'document.referrer' will be an empty string, "".
+
+Quiz
+http://www.asmarterwaytolearn.com/js/index-of-exercises.html

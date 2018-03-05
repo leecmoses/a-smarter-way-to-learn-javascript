@@ -1,0 +1,20 @@
+76 - Browser control: Getting and setting the URL
+
+Notes
+    * var whereWeAt = window.location.href;
+        * current location, meaning whole URL address.
+    * var theDomain = window.location.hostname;
+        * only pulls the domain name, e.g. "www.a.com".
+    * var thePath = window.location.pathname;
+        * If the browser were on the home page the string "/" would be assigned to the variable.
+    * var theAnchor = window.location.hash;
+        * "#andanythingafterit" or if there is no anchor in the URL, the variable is assigned an empty string "".
+    * Coding Alternatives to Be Aware Of
+        * You can omit window. It's legal to use location.href, location.hostname, location.pathname, and location.hash.
+        It's more common to include window.
+        * You can omit href when you're detecting the URL. It's legal to use window.location, or simply location. (See above.)
+        Including href is preferred for esoteric reasons.
+        * You can use document.URL as an alternative to window.location.href.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/76.html

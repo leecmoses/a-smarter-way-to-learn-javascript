@@ -1,0 +1,9 @@
+79 - Browser Control: Filling the window with content
+
+Notes
+    * 'window.open();' will open a full-size blank window.
+    * To close a window use '.close()' attached to the end of the handle.
+    * document.write("");
+
+Quiz
+http://www.asmarterwaytolearn.com/js/79.html
