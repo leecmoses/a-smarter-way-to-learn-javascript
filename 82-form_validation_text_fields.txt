@@ -1,0 +1,32 @@
+82 - Form validation: text fields
+
+Notes
+<form onSubmit="return checkForLastName();">
+    Please enter your last name.<br>
+    <input type="text" id="lastNameId">
+    <input type="submit" value="Submit Form">
+</form>
+
+When the user clicks the Submit button, the function checkForLastName is called. Here's the function.
+
+function checkForLastName() {
+var targetField = document.getElementById("lastNameField");
+    if (targetField.value.length === 0) {
+        alert("Please enter your last name");
+        targetField.focus();
+        targetField.style.background = "yellow";
+        return false;
+    }
+    targetField.style.background = "white";
+}
+
+Coding Alternatives to Be Aware Of
+    * The sample code in this chapter targets forms and fields by ID, which is the most straightforward approach. But you could target by name, by tag, or by position in the DOM hierarchy.
+    * Instead of hard-wiring the ID into the function, you could potentially make it multi-use by naming the field ID as a parameter, and passing the ID to it from the calling code.
+
+    * onSubmit is the keyword trigger for the function that validates the form.
+    * length is the property of the field that tells you whether the field has something in it or not.
+* .focus(); is used to place the cursor in the field.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/82.html
