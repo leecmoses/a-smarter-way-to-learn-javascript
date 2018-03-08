@@ -1,0 +1,9 @@
+84 - Form validation: drop-downs
+
+Notes
+    * When validation a group of buttons, you target the group by specifying the name.
+    * var targetButtons = document.getElementsByName("r2");
+    * if (targetButtons[i].checked) {
+
+Quiz
+http://www.asmarterwaytolearn.com/js/84.html

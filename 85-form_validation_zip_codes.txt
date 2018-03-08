@@ -1,0 +1,9 @@
+85 - Form validation: ZIP codes
+
+Notes
+    * var numOfCharacters = target.value.length
+    * parseInt();
+    * if (isNaN(thisChar)), tests whether thisChar is a non-number.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/85.html

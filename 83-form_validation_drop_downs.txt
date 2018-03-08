@@ -1,0 +1,11 @@
+83 - Form validation: drop-downs
+
+Notes
+    * The index number of the first user-selected selection is 1.
+        * When selectedIndex is 0, it means the user hasn't selected anything.
+    * In the markup for a selection box, the ID is assigned to select.
+    * 'onSubmit; is the keyword that triggers the validation function.
+    
+
+Quiz
+http://www.asmarterwaytolearn.com/js/83.html

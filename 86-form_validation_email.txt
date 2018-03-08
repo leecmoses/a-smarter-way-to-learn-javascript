@@ -1,0 +1,17 @@
+86 - Form validation: email
+
+Notes
+    * THe use of regular expressions would be more efficient for validating email addresses.
+
+    * .indexOf(" ") tests whether a space occurs in the string.
+        * If a character doesn't occur in a string the index is '-1'.
+    * if (valueEntered.indexOf("@") > 0) {
+        * The if statement above tests whether "@" occurs in the string represented by the variable valueEntered, and that at least one character precedes it.
+    * if (addressEntered.indexOf(".") < addressEntered.length - 2) {
+        * OR if (addr.length - addr.indexOf(".") > 2) {
+    * if (value.indexOf(".") - value.indexOf("@") > 1) {
+    * if (valueEntered.indexOf("@") < 1) {
+        * If the index is -1, "@" is nowhere to be found. If the index is 0, "@" is the first character in the string.
+
+Quiz
+http://www.asmarterwaytolearn.com/js/86.html
