@@ -1,0 +1,23 @@
+87 - Exceptions: try and catch
+
+Notes
+    * Try and catch are always paired. Without try, an errior won't trigger catch.
+    
+    Some things to keep in mind:
+    * The code inside the try and the catch blocks is wrapped in curly brackets.
+    * The functional code inside the try block is indented.
+    * The error parameter, in this case err, can take any legal variable name.
+    * In this example, an alert displays when an error occurs.
+
+    * The try and catch pair have limited usefulness.
+    * Mainly useful for spotting variables that haven't been defined or, as in this case, errors that JavaScript interprets as variables that haven't been defined (undefined variables).
+
+    try {
+        var z = x + y;
+    }
+    catch (param) {
+        alert(param);
+    }
+
+Quiz
+http://www.asmarterwaytolearn.com/js/87.html
