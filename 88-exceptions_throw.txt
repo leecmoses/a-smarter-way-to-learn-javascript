@@ -1,0 +1,16 @@
+88 - Exceptions: throw
+
+Notes
+<form onSubmit="return checkPassword();">
+    Enter a password<br>
+    (8-12 characters, at least 1 number, no spaces)<br>
+    <input type="text" id="fl">
+    <input type="submit" value="Submit">
+</form>
+
+    * Throw is the keyword that passes a value to the catch parameter.
+    * Any type of value can be passed by throw.
+    * Throw passes a value to parameter.
+    
+Quiz
+http://www.asmarterwaytolearn.com/js/88.html
