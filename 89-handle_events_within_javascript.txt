@@ -1,0 +1,9 @@
+89 - Handle events within JavaScript
+
+Notes
+    * Unlike the camelCase used for inline event-handling, the event name must be all-lowercase or it won't work. It's onclick not onClick, onfocus not onFocus, onsubmit not onSubmit 
+    * Unlike inline event-handling, the function name following the equal sign isn't in quotes 
+    * Unlike inline event-handling, there are no parentheses following the function name 
+
+Quiz
+http://www.asmarterwaytolearn.com/js/89.html
